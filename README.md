@@ -6,4 +6,7 @@ The aim of the project was to build a paper helicopter based on a A4 sheet of pa
 
 ![Screenshot](paper_helicopter.png)
 
+
+The Python file was used to find the design of the optimal helicopter (the helicopter having the longest falling time) and the Matlab file was used to quantify the uncertainties.
+
 For more information on the project, please refer to the document [Documentation.pdf](Documentation.pdf).
